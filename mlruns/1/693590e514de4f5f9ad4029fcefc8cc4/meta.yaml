@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rob/code/robpasternak/TaxiFareModel/mlruns/1/693590e514de4f5f9ad4029fcefc8cc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 693590e514de4f5f9ad4029fcefc8cc4
+run_uuid: 693590e514de4f5f9ad4029fcefc8cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645535368557
+status: 1
+tags: []
+user_id: unknown
